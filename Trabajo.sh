@@ -1,3 +1,5 @@
+#/bin/bash
+
 echo "Seleccione valor para el primer operando: "
 read operando_1
 echo "Seleccione un valor para el segundo operando: "
